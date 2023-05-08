@@ -577,19 +577,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jakub\\.nuget\\packages\\": {}
+    "C:\\Users\\malac\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\Maturita\\DUKLA BRNO\\DUKLA BRNO\\DataApi\\DataApi.csproj",
+      "projectUniqueName": "C:\\Repos\\ZAK\\DUKLA BRNO\\DataApi\\DataApi.csproj",
       "projectName": "DataApi",
-      "projectPath": "C:\\Repos\\Maturita\\DUKLA BRNO\\DUKLA BRNO\\DataApi\\DataApi.csproj",
-      "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\Maturita\\DUKLA BRNO\\DUKLA BRNO\\DataApi\\obj\\",
+      "projectPath": "C:\\Repos\\ZAK\\DUKLA BRNO\\DataApi\\DataApi.csproj",
+      "packagesPath": "C:\\Users\\malac\\.nuget\\packages\\",
+      "outputPath": "C:\\Repos\\ZAK\\DUKLA BRNO\\DataApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\malac\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
