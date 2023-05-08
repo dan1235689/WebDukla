@@ -1,0 +1,48 @@
+###
+
+GET http://localhost:5068/riders HTTP/1.1
+content-type: application/json
+
+###
+
+GET http://localhost:5068/riders/19 HTTP/1.1
+content-type: application/json
+
+###
+
+POST http://localhost:5068/riders HTTP/1.1
+content-type: application/json
+
+{
+    "name": "Dummy Rider",
+    "yoB": 2007,
+    "age": 16,
+    "category": "U17",
+    "sex": "M",
+    "ranking": "",
+    "fb": "",
+    "ig": ""
+  }
+
+###
+
+PUT http://localhost:5068/riders/19 HTTP/1.1
+content-type: application/json
+
+{
+    "id": 19,
+    "name": "Dummy Rider",
+    "yoB": 2007,
+    "age": 16,
+    "category": "U17",
+    "sex": "M",
+    "ranking": "",
+    "fb": "",
+    "ig": "@DummyRider"
+}
+
+###
+
+DELETE http://localhost:5068/riders/19 HTTP/1.1
+content-type: application/json
+

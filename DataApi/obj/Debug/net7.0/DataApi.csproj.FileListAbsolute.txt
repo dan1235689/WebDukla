@@ -1,0 +1,54 @@
+C:\Repos\ZAK\DUKLA BRNO\DataApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Repos\ZAK\DUKLA BRNO\DataApi\bin\Debug\net7.0\appsettings.json
+C:\Repos\ZAK\DUKLA BRNO\DataApi\bin\Debug\net7.0\DataApi.exe
+C:\Repos\ZAK\DUKLA BRNO\DataApi\bin\Debug\net7.0\DataApi.deps.json
+C:\Repos\ZAK\DUKLA BRNO\DataApi\bin\Debug\net7.0\DataApi.runtimeconfig.json
+C:\Repos\ZAK\DUKLA BRNO\DataApi\bin\Debug\net7.0\DataApi.dll
+C:\Repos\ZAK\DUKLA BRNO\DataApi\bin\Debug\net7.0\DataApi.pdb
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\DataApi.csproj.AssemblyReference.cache
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\DataApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\DataApi.AssemblyInfoInputs.cache
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\DataApi.AssemblyInfo.cs
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\DataApi.csproj.CoreCompileInputs.cache
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\DataApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\staticwebassets\msbuild.DataApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\staticwebassets\msbuild.build.DataApi.props
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DataApi.props
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DataApi.props
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\scopedcss\bundle\DataApi.styles.css
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\DataApi.dll
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\refint\DataApi.dll
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\DataApi.pdb
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\DataApi.genruntimeconfig.cache
+C:\Repos\ZAK\DUKLA BRNO\DataApi\obj\Debug\net7.0\ref\DataApi.dll
+C:\Repos\ZAK\DUKLA BRNO\DataApi\bin\Debug\net7.0\data\riders.json
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\bin\Debug\net7.0\appsettings.json
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\bin\Debug\net7.0\data\riders.json
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\bin\Debug\net7.0\DataApi.exe
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\bin\Debug\net7.0\DataApi.deps.json
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\bin\Debug\net7.0\DataApi.runtimeconfig.json
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\bin\Debug\net7.0\DataApi.dll
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\bin\Debug\net7.0\DataApi.pdb
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\DataApi.csproj.AssemblyReference.cache
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\DataApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\DataApi.AssemblyInfoInputs.cache
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\DataApi.AssemblyInfo.cs
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\DataApi.csproj.CoreCompileInputs.cache
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\DataApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\staticwebassets\msbuild.DataApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\staticwebassets\msbuild.build.DataApi.props
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DataApi.props
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DataApi.props
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\scopedcss\bundle\DataApi.styles.css
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\DataApi.dll
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\refint\DataApi.dll
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\DataApi.pdb
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\DataApi.genruntimeconfig.cache
+C:\Repos\Maturita\DUKLA BRNO\DUKLA BRNO\DataApi\obj\Debug\net7.0\ref\DataApi.dll
